@@ -14,14 +14,14 @@ header{
 }
 header > h1 {
     padding-top: 50px;
-    font-variant: small-caps;
+    font-variant: small-caps;/*deixa primeira letra maiuscula*/
 }
 header > p {
     padding-bottom: 50px;
 }
 header a, footer a{
     color: white;
-    text-decoration: none;
+    text-decoration: none;/*retira a decoração*/
     font-weight: bolder; 
 }
  header a:hover, footer a:hover{
